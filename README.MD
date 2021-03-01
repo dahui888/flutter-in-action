@@ -4,11 +4,6 @@
 
 本书随书源码：https://github.com/wendux/flutter_in_action_source_code
 
-## 实体书
-<div style="text-align:center; padding-bottom:30px"><a href="https://item.jd.com/12816296.html" title='点击购买'><img height="250" style="box-shadow: #aaa 5px 5px 10px;" src="https://pcdn.flutterchina.club/imgs/book.png"/></a>  <br/> <a class="buy-btn" href="https://item.jd.com/12816296.html" title='点击购买'> 购买实体书 </a></div>
-
-
-
 ## 贡献须知
 
 本书目前仍在创作中，如果您想参与到本书创作，欢迎提PR。本书目录结构如下：
@@ -72,13 +67,4 @@
 
 如果您发现本书的错误，欢迎PR。
 
-## 联系方式
-
-微信号：Demons-du
-
-## 免费？
-
-知识是应该付费的，创作不易，开源不等于免费，如果您是本书读者并手头宽裕，可以微信扫描下面二维码打赏，也不用太多，够买一杯咖啡就行。当然，如果您囊中羞涩，您也可以阅读本书，但我对您有个小小的要求，希望您在阅读的过程中能积极参与到本书的纠错以及未完成内容的创作上来，也算是有所付出。
-
-![](https://cdn.jsdelivr.net/gh/flutterchina/flutter-in-action@1.0.3/docs/imgs/pay.jpeg)
 
